@@ -1,4 +1,4 @@
-Shader "Connor/FirstShaderMultiUV"
+Shader "Connor/TestShader"
 {	
 Properties
 	{
