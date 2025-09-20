@@ -1,9 +1,10 @@
-Created MultiUV Shader During Class
+Created MultiUV Shader During Class (Shader found in assets folder)
 <img width="1168" height="701" alt="Screenshot 2025-09-19 214246" src="https://github.com/user-attachments/assets/34b67809-f91b-44ae-bb5a-8efc2f381c68" />
 
-Created Reflection Shader After Class
+Created Reflection Shader After Class (Shader found in assets folder)
 <img width="1207" height="592" alt="Screenshot 2025-09-19 214131" src="https://github.com/user-attachments/assets/22d1f2e3-2070-4406-9ebc-dd7d6e7d644b" />
 
-Created Offset Shader After Class
+Created Offset Shader After Class (Shader found in assets folder)
 <img width="1208" height="589" alt="Screenshot 2025-09-19 214148" src="https://github.com/user-attachments/assets/580f5a82-d87b-4e42-9cfc-0af2a9ccb8ba" />
 
+After the in-class activity, I can now identify what my strengths and weaknesses are within this course. First my weaknesses within the course are that I tend to miss small details when making the shaders and that I easily get frustrated when errors pop up. During the class activity, after following the slides to create the multiUV shader, I tried to compile the shader and then got errors. When these errors popped up, I got very confused and then frustrated when trying to fix them. After a while, I found that all I missed was small detail like missing semi colons or having the wrong operation signs ( =, -, +, *, etc). Once I solved those errors, then my shader was working just fine. My strength within this course is being determined to learn and to solve problems if they arise in the shaders. During that entire time when trying to fix the errors, I never felt like giving up on it and leaving it for later. I knew that the content in this class was something I want to learn about. Is it gonna be easy? No. Am I gonna quit? No, because in order for me to fully understand what shaders are and how to make them well, I need to take my time with coding them. That's where the opportunities to learn will come. One tatic I found help me was when there was an error in the code, I would re-type the code on the line where the error was present to see if I missed something the first time instead of getting frustated. If I keep this strategy in mind, I will be less frustrated when making shaders.
