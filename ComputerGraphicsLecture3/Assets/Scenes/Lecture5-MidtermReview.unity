@@ -820,6 +820,75 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+--- !u!1001 &152668896
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.9479101
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.9973235
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8079782462984123775, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7f08566c799f9234c8525f62be6031e8, type: 2}
+    - target: {fileID: -6135593927970851872, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7f08566c799f9234c8525f62be6031e8, type: 2}
+    - target: {fileID: -5126060000771187914, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7f08566c799f9234c8525f62be6031e8, type: 2}
+    - target: {fileID: 919132149155446097, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+      propertyPath: m_Name
+      value: GiantModel01 - Golem (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
 --- !u!1 &471661374
 GameObject:
   m_ObjectHideFlags: 0
@@ -2441,6 +2510,75 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
+--- !u!1001 &1520419023
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.9714746
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.0544335
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8079782462984123775, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7f08566c799f9234c8525f62be6031e8, type: 2}
+    - target: {fileID: -6135593927970851872, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7f08566c799f9234c8525f62be6031e8, type: 2}
+    - target: {fileID: -5126060000771187914, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7f08566c799f9234c8525f62be6031e8, type: 2}
+    - target: {fileID: 919132149155446097, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
+      propertyPath: m_Name
+      value: GiantModel01_Flat - Golem_Flat
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b3681b15fa0a0ad4e936d65ce5c2a0fb, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -2450,3 +2588,5 @@ SceneRoots:
   - {fileID: 946093928}
   - {fileID: 7700424}
   - {fileID: 678575466}
+  - {fileID: 152668896}
+  - {fileID: 1520419023}
