@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Lambert
-  m_Shader: {fileID: -6465566751694194690, guid: 47be53dc786fc3b4a9fb425c34ffc840, type: 3}
-  m_Parent: {fileID: -876546973899608171, guid: 47be53dc786fc3b4a9fb425c34ffc840, type: 3}
+  m_Name: Lambert+Ambient
+  m_Shader: {fileID: -6465566751694194690, guid: f9dae6f4a3c4ffb4e9c3daaa2450e899, type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: f9dae6f4a3c4ffb4e9c3daaa2450e899, type: 3}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -23,13 +23,18 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _DiffuseTexture:
+        m_Texture: {fileID: 2800000, guid: ad49ac60d9d511d47a2797751990ab54, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
+    m_Floats:
+    - _QueueControl: 0
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &915646201925195017
+--- !u!114 &3108339644753008566
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
