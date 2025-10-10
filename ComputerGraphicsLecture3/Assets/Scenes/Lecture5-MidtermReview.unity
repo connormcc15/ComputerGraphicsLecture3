@@ -1124,13 +1124,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 667969812}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.34967282, y: -0.7056432, z: 0.061806504, w: 0.6131693}
+  m_LocalRotation: {x: 0.15820509, y: -0.15110685, z: -0.22455032, w: 0.9495868}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 31.067, y: -106.3, z: -29.186}
+  m_LocalEulerAnglesHint: {x: 13.45, y: -21.6, z: -29.186}
 --- !u!114 &667969815
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2079,7 +2079,7 @@ PrefabInstance:
     - target: {fileID: -8079782462984123775, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: f8b17cf24eddca04ea028747bffc1a9a, type: 2}
+      objectReference: {fileID: 2100000, guid: a55e31c2bc610064abfcf8ff1b64eef2, type: 2}
     - target: {fileID: -7775927764126679005, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.0000014039688
@@ -2203,11 +2203,11 @@ PrefabInstance:
     - target: {fileID: -6135593927970851872, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: f8b17cf24eddca04ea028747bffc1a9a, type: 2}
+      objectReference: {fileID: 2100000, guid: a55e31c2bc610064abfcf8ff1b64eef2, type: 2}
     - target: {fileID: -5126060000771187914, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: f8b17cf24eddca04ea028747bffc1a9a, type: 2}
+      objectReference: {fileID: 2100000, guid: a55e31c2bc610064abfcf8ff1b64eef2, type: 2}
     - target: {fileID: -4515367188880481856, guid: cfbfb95b5f2b90949be0b5faab2775fb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.0000045374045

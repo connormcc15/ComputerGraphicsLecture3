@@ -49,6 +49,8 @@ Shader "Custom/ToonShader"
 
             half4 frag(Varyings IN) : SV_Target
             {
+                // Light mainLight = GetMainLight();
+                // half4 NdotL = saturate(dot)
                 half4 color = SAMPLE_TEXTURE2D(_BaseMap, sampler_BaseMap, IN.uv) * _BaseColor;
                 return color;
             }
