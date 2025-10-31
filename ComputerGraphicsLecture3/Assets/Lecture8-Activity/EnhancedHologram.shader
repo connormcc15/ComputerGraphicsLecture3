@@ -87,7 +87,7 @@ Shader "Connor/EnhancedHologram"
                 half3 fresnelColor = _FresnelColor.rgb * fresnel * _RimIntensity;
 
                 // Scrolling lines effect
-                float lineValue = sin(IN.uv.y * _LineFrequency + _Time.y * _LineSpeed);
+                float lineValue = sin(IN.uv.y * _LineFrequency - _Time.y * _LineSpeed);
                 half3 lineColor = _LineColor.rgb * step(0.5, lineValue);  // Creates sharp scan lines
 
                 // Combine the texture color, fresnel rim, and scan lines
