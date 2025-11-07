@@ -1,5 +1,5 @@
 1. Glass and Material Vertex Fragment
-I made the glass shader however I couldn't achieve to make it look like glass.
+I made the glass shader. Originally, I couldn't achieve the glass look however, it seemed to be a common issue. I saw the posed fix for it and implemented it into the scene.
 Glass shader can and will be use for anything that is glass in a video game, whether its a window, glass cup, etc.
 The shader can also be for anything you want to look glass like but is not exactly glass.
 
