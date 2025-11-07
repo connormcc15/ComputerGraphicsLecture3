@@ -1,4 +1,4 @@
-Shader "Custom/SimpleLightingWithShadows"
+Shader "Connor/SimpleLightingWithShadows"
 {
     Properties
     {
